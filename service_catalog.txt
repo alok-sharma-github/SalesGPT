@@ -1,0 +1,27 @@
+# Inzint Service Catalog
+
+Inzint Service 1: AI/ML Consulting
+Transform your business with our AI/ML Consulting services. Inzint specializes in harnessing the power of artificial intelligence and machine learning to develop innovative solutions tailored to your unique needs. Our expert team helps you analyze data, automate processes, and implement predictive analytics, providing insights that drive informed decision-making. We offer end-to-end services from strategy formulation to deployment, ensuring seamless integration with your existing systems. Whether you're looking to build AI-powered applications, optimize business operations, or enhance customer experiences, Inzint's AI/ML Consulting is your trusted partner in this digital journey.
+**Price:** $5,000 per project
+
+Inzint Service 2: Mobile App Development
+Elevate your brand's digital presence with Inzint's Mobile App Development services. We craft intuitive, high-performance mobile applications for both iOS and Android platforms, focusing on user-centric design and robust functionality. Our skilled developers leverage the latest technologies to create apps that not only meet your business objectives but also provide a seamless user experience. From concept to launch, we offer comprehensive services including UI/UX design, development, testing, and maintenance. Inzint ensures that your mobile app stands out in a competitive market, providing value to your users and driving engagement.
+**Price:** $8,000 per app
+
+Inzint Service 3: Web Development
+At Inzint, we offer cutting-edge Web Development services to help you establish a strong online presence. Our team of experienced developers creates responsive, secure, and scalable websites that reflect your brand's identity. We specialize in custom web development, e-commerce solutions, and content management systems (CMS), utilizing technologies like HTML, CSS, JavaScript, and more. Whether you need a simple informational website or a complex web application, Inzint delivers high-quality solutions that enhance user experience and optimize performance. Our focus on modern design principles and best practices ensures that your website is both visually appealing and functional.
+**Price:** $5,000 per website
+
+Inzint Service 4: Digital Transformation
+Embrace the future with Inzint's Digital Transformation services. We assist organizations in reimagining their business models and processes through the integration of digital technologies. Our comprehensive approach includes assessing your current digital maturity, identifying opportunities for improvement, and implementing innovative solutions that drive growth and efficiency. From cloud computing and data analytics to IoT and automation, we provide a holistic suite of services that empower you to stay ahead in a rapidly evolving market. Inzint's Digital Transformation services help you unlock new revenue streams, improve customer experiences, and achieve operational excellence.
+**Price:** $10,000 per engagement
+
+Inzint Service 5: E-Commerce Development
+Inzint offers specialized E-Commerce Development services to help you build a robust online store. Our team designs and develops custom e-commerce platforms that provide seamless shopping experiences across all devices. We focus on user-friendly navigation, secure payment gateways, and efficient inventory management, ensuring that your customers enjoy a smooth and secure shopping journey. Whether you're a startup or an established brand, Inzint's e-commerce solutions are tailored to meet your unique requirements. From Shopify and WooCommerce to Magento and custom-built platforms, we provide scalable solutions that drive sales and boost your online presence.
+**Price:** $7,500 per store
+
+Inzint Service 6: Workflow Automation
+Streamline your business processes with Inzint's Workflow Automation services. We specialize in automating repetitive tasks, reducing manual effort, and improving overall efficiency. Our solutions include the implementation of automation tools, process re-engineering, and integration with existing systems. Inzint helps you identify bottlenecks and optimize workflows, allowing your team to focus on higher-value tasks. From CRM and ERP automation to custom workflow solutions, we provide a range of services that enhance productivity and reduce operational costs. Experience the benefits of a fully automated business environment with Inzint's expert guidance.
+**Price:** $4,000 per implementation
+
+For more information about our services and how we can assist your business, please contact us at [contact information].
